@@ -22,7 +22,7 @@ Live Data Streaming — Capture and display CAN traffic for diagnostics and reve
 
 LED Status Indicators — Green LED for successful CAN initialization, blue LED for message activity.
 
-Cross-Platform Connectivity — Works via USB or Bluetooth for integration with laptops, mobile devices, and diagnostic platforms.
+Cross-Platform Connectivity — Works via USB, WIFI Bluetooth for integration with laptops, mobile devices, and diagnostic platforms.
 
 Open and Extensible — Modular codebase designed for easy customization and feature expansion.
 
