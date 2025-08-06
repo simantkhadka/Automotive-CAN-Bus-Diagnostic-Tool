@@ -25,7 +25,7 @@ ELM327Emu::ELM327Emu()
 {
     tickCounter = 0;
     ibWritePtr = 0;
-    ecuAddress = 0x7E0; // Default ECU address for engine control
+    ecuAddress = 0x7DF; // Default ECU address for engine control
     mClient = 0;
     bEcho = false;
     bHeader = false;
