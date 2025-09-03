@@ -41,8 +41,11 @@ This project bridges **embedded firmware, automotive diagnostics, and cybersecur
 - OBD-II Adapter Cable  
 - Power source (vehicle battery or bench supply)  
 
-### Wiring Diagram  
+### Shield Schematic
 <img src="schematic-esp32-shield-can.jpg" alt="ESP32-MCP2515 CAN Shield Schematic" width="600">
+
+### Wiring
+
 
 ### Example Hardware Setup  
 <img src="docs/images/device_setup.jpg" width="500">  
