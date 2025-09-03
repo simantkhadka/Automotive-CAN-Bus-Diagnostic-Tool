@@ -42,9 +42,10 @@ This project bridges **embedded firmware, automotive diagnostics, and cybersecur
 - Power source (vehicle battery or bench supply)  
 
 ### Shield Schematic
-<img src="schematic-esp32-shield-can.jpg" alt="ESP32-MCP2515 CAN Shield Schematic" width="600">
+<img src="schematic-esp32-shield-can.jpg" width="600">
 
 ### Wiring
+<img src="obd2-connector-pinout-socket.jpg" width="600">
 
 
 ### Example Hardware Setup  
