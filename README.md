@@ -32,6 +32,10 @@ This project bridges **embedded firmware, automotive diagnostics, and cybersecur
 | 🌍 **Cross-Platform & Extensible** | Works on Windows, Linux, macOS, Android. Modular firmware lets you add new PIDs and extend features. |
 
 ---
+## DEMOS
+<video src=""C:\Users\khadk\OneDrive - Norwich University\CapstoneProject_SIMANT\Test_Videos\Livestream_Data - Made with Clipchamp.mp4"" width="320" height="240" controls></video>
+
+
 
 ## 🔌 Hardware Setup  
 
