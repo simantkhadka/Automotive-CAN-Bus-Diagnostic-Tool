@@ -33,7 +33,8 @@ This project bridges **embedded firmware, automotive diagnostics, and cybersecur
 
 ---
 ## DEMOS
-https://youtu.be/T9zk9gBA490
+[![Watch on YouTube](https://img.youtube.com/vi/T9zk9gBA490/maxresdefault.jpg)](https://youtu.be/T9zk9gBA490)
+
 
 
 
