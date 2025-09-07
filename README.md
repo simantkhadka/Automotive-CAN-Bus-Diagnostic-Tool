@@ -1,3 +1,5 @@
+
+
 # 🚗 Automotive CAN Bus Diagnostic Tool  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
@@ -33,7 +35,18 @@ This project bridges **embedded firmware, automotive diagnostics, and cybersecur
 
 ---
 ## DEMOS
-[![Click to watch the demo](https://img.shields.io/badge/▶%20Watch%20Demo!-blue?style=for-the-badge)](https://github.com/user-attachments/assets/c9c042e9-e77d-4fd4-91c4-05df1f1b163f)
+
+## 🎥 Demo Video  
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/c9c042e9-e77d-4fd4-91c4-05df1f1b163f">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-blue?style=for-the-badge" width="300">
+  </a>
+</p>
+
+
+
+
 
 
 
