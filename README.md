@@ -11,7 +11,7 @@
 The **Automotive CAN Bus Diagnostic Tool** is an **ESP32-based open-source platform** for analyzing and interacting with vehicle networks through the OBD-II port.  
 
 It enables:  
-- 📊 Real-time vehicle data monitoring  
+- 📊 Real-time vehicle data monitoring  a
 - 🔍 CAN traffic sniffing and reverse engineering  
 - 🛠️ Diagnostic Trouble Code (DTC) reading/clearing  
 - 🌐 Connectivity via USB, Bluetooth, and Wi-Fi  
