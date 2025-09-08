@@ -34,20 +34,21 @@ This project bridges **embedded firmware, automotive diagnostics, and cybersecur
 | 🌍 **Cross-Platform & Extensible** | Works on Windows, Linux, macOS, Android. Modular firmware lets you add new PIDs and extend features. |
 
 ---
-## DEMOS
+## 🎥 Demo Video 
 
-## 🎥 Demo Video  
 
-<p align="center">
-  <a href="https://github.com/user-attachments/assets/c9c042e9-e77d-4fd4-91c4-05df1f1b163f">
-    <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-blue?style=for-the-badge" width="300">
-  </a>
-</p>
+https://github.com/user-attachments/assets/0c0959b6-6710-476d-8ff5-35bfcdc2d654
+
+
+https://github.com/user-attachments/assets/2b88c9d3-b2f6-4418-abd5-e2d6fecdbec8
 
 
 
 
 
+
+
+---
 
 
 
