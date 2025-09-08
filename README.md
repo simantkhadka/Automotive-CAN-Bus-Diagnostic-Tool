@@ -74,8 +74,9 @@ https://github.com/user-attachments/assets/79f9b519-6360-4b1a-ae00-c602bd278794
 <img src="obd2-connector-pinout-socket.jpg" width="600">
 
 
-### Example Hardware Setup  
-<img src="docs/images/device_setup.jpg" width="500">  
+### Hardware Setup  
+<img width="600" height="866" alt="Screenshot 2025-09-08 181216" src="https://github.com/user-attachments/assets/8a3f76a1-2100-4a20-ab4b-32c59a164e9f" />
+
 
 ---
 
