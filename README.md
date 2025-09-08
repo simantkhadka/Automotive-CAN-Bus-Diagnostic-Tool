@@ -80,10 +80,3 @@ https://github.com/user-attachments/assets/79f9b519-6360-4b1a-ae00-c602bd278794
 ---
 
 ## 🛠️ Programming
-```bash
-# Clone the repository
-git clone https://github.com/simantkhadka/Automotive-CAN-Bus-Diagnostic-Tool.git
-cd Automotive-CAN-Bus-Diagnostic-Tool
-
-# Build & upload firmware (PlatformIO)
-pio run --target upload
