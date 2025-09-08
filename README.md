@@ -1,5 +1,3 @@
-
-
 # 🚗 Automotive CAN Bus Diagnostic Tool  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
@@ -81,14 +79,7 @@ https://github.com/user-attachments/assets/79f9b519-6360-4b1a-ae00-c602bd278794
 
 ---
 
-## 🛠️ Getting Started  
-
-### Requirements  
-- **Hardware**: ESP32 + MCP2515 + OBD-II cable  
-- **Software**: PlatformIO (recommended) or Arduino IDE  
-
-### Installation  
-
+## 🛠️ Programming
 ```bash
 # Clone the repository
 git clone https://github.com/simantkhadka/Automotive-CAN-Bus-Diagnostic-Tool.git
